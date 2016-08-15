@@ -103,6 +103,7 @@ table { border-collapse: collapse; border-spacing: 0; }
    1. Icons - Sets up the icon font and respective classes
    ========================================================================== */
 
+
 /* Import the font file with the icons in it */
 @font-face {
     font-family: "casper-icons";
@@ -1771,6 +1772,12 @@ body:not(.post-template) .post-title {
         -webkit-transform: translateY(-5px) rotate(-90deg);
                 transform: translateY(-5px) rotate(-90deg);
     }
+}
+
+.post {
+  font-family: "kalpurush";
+  font-weight: normal;
+  font-style: normal;
 }
 
 
