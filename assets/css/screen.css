@@ -1775,9 +1775,11 @@ body:not(.post-template) .post-title {
 }
 
 .post {
-  font-family: "kalpurush";
+  font-family: "adorsholipi";
   font-weight: normal;
   font-style: normal;
+  font-size: 16px;
+  color: black;
 }
 
 
