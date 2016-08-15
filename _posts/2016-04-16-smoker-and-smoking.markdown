@@ -26,7 +26,7 @@ categories: smoking public-awareness
   2. Parkinson's Disease (স্নায়ুতন্ত্রের রোগ)
   3. Sarcoidosis (মাল্টিসিস্টেম ডিজঅর্ডার)
   4. Osteoarthritis (সহজ ভাষায়,এক ধরনের বাতরোগ)
-  5. Hypersensitivity Pneumonitis (ফুসফুসের প্রদাহ)  
+  5. Hypersensitivity Pneumonitis (ফুসফুসের প্রদাহ)
   6. Henoch Schonlein Purpura (মাল্টিসিস্টেম ডিজঅর্ডার)
   7. Depression (বিষন্নতা)
 
