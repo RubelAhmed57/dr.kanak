@@ -1,0 +1,17 @@
+name: ডক্টর কনকের ডাইরি
+description: "আমার যাবতীয় লেখা"
+author: "আসাদুজ্জামান কনক"
+meta_description: "দৈনন্দিন ঘটনার সমগ্র"
+
+markdown: kramdown
+highlighter: pygments
+logo: false
+paginate: 5
+baseurl: /
+domain_name: 'http://yourblog-domain.com'
+google_analytics: 'UA-XXXXXXXX-X'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'blog url'
+author:         'আসাদুজ্জামান কনক'
