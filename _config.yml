@@ -8,6 +8,7 @@ highlighter: pygments
 logo: false
 paginate: 5
 baseurl: "/dr.kanak"
+url: 'https://manashmndl.github.io'
 domain_name: 'http://yourblog-domain.com'
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
