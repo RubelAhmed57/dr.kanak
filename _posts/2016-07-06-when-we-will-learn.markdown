@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "সচেতন হতে কত দেরি, পাঞ্জেরী?"
-date:   2016-07-06 10:18:00
-categories: operation medicine public-awareness
+title: "সচেতন হতে কত দেরি, পাঞ্জেরী?"
+date: 2016-07-06 10:18:00
+categories: public-awareness medicine
 ---
 
  > --শুনলাম, তোমার আম্মার দুইটা কিডনীই নষ্ট, ডায়ালাইসিস করায়।
